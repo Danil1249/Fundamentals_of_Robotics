@@ -1,0 +1,7 @@
+int32 count
+string base_name
+---
+bool success
+int32 spawned_count
+int32 removed_count
+string message
