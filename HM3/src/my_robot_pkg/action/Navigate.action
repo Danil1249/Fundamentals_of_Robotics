@@ -1,0 +1,9 @@
+float64 target_x
+float64 target_y
+---
+float64 total_distance
+float64 elapsed_time
+---
+float64 remaining_dist
+float64 current_x
+float64 current_y
